@@ -1,6 +1,5 @@
-# Frontend-Coursera
 
-A repo which holds the website built as Part of the Front-End Web UI Frameworks and Tools: Bootstrap 4 Coursera course.
+# A repo which holds the website built as Part of the Front-End Web UI Frameworks and Tools: Bootstrap 4 Coursera course.
 ---
 ## Requirements
 
